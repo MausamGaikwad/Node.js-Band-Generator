@@ -26,10 +26,11 @@ Body-parser
 index.js: Entry point of the application.
 public/: Static files (stylesheets, scripts, etc.).
 views/: EJS templates for rendering HTML.
-Contributing
+
+## Contributing
 Feel free to contribute by adding more adjectives and nouns to enhance the band name generation. Submit a pull request with your additions.
 
-License
+## License
 This project is licensed under the MIT License.
 
 **Have fun generating band names! 🎸🤘**
