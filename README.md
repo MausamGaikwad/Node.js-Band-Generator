@@ -29,6 +29,6 @@ npm start``
 Feel free to contribute by adding more adjectives and nouns to enhance the band name generation. Submit a pull request with your additions.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT (License)[License].
 
 **Have fun generating band names! 🎸🤘**
