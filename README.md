@@ -1,7 +1,7 @@
-Band Name Generator
+## Band Name Generator
 A fun Express.js project that generates random band names by combining adjectives and nouns. Users can submit the form to get a unique band name.
 
-Getting Started
+## Getting Started
 Install dependencies:
 
 bash
