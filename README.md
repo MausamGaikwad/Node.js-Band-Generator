@@ -17,9 +17,9 @@ Open your browser and go to http://localhost:3000.
 1. Visit the homepage and click "Generate Name" to get a randomly generated band name.
 2. Enjoy the creativity and humor in the combinations of adjectives and nouns.
 ## Dependencies
-Express.js
-EJS
-Body-parser
+* Express.js
+* EJS
+* Body-parser
 
 ## Project Structure
 index.js: Entry point of the application.
