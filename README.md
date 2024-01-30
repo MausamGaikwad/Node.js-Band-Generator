@@ -21,7 +21,8 @@ Enjoy the creativity and humor in the combinations of adjectives and nouns.
 Express.js
 EJS
 Body-parser
-Project Structure
+
+## Project Structure
 index.js: Entry point of the application.
 public/: Static files (stylesheets, scripts, etc.).
 views/: EJS templates for rendering HTML.
