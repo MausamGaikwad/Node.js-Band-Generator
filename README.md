@@ -9,14 +9,13 @@ Copy code
 npm install
 Run the application:
 
-bash
 Copy code
 npm start
 Open your browser and go to http://localhost:3000.
 
 ## How to Use
-Visit the homepage and click "Generate Name" to get a randomly generated band name.
-Enjoy the creativity and humor in the combinations of adjectives and nouns.
+1. Visit the homepage and click "Generate Name" to get a randomly generated band name.
+2. Enjoy the creativity and humor in the combinations of adjectives and nouns.
 ## Dependencies
 Express.js
 EJS
