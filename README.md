@@ -2,16 +2,15 @@
 A fun Express.js project that generates random band names by combining adjectives and nouns. Users can submit the form to get a unique band name.
 
 ## Getting Started
-Install dependencies:
+* Install dependencies:
 
-bash
-Copy code
-npm install
-Run the application:
+``Copy code
+npm install``
+* Run the application:
 
-Copy code
-npm start
-Open your browser and go to http://localhost:3000.
+``Copy code
+npm start``
+* Open your browser and go to http://localhost:3000.
 
 ## How to Use
 1. Visit the homepage and click "Generate Name" to get a randomly generated band name.
