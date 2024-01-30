@@ -31,4 +31,4 @@ Feel free to contribute by adding more adjectives and nouns to enhance the band 
 License
 This project is licensed under the MIT License.
 
-Have fun generating band names! 🎸🤘
+**Have fun generating band names! 🎸🤘**
