@@ -22,9 +22,9 @@ Open your browser and go to http://localhost:3000.
 * Body-parser
 
 ## Project Structure
-index.js: Entry point of the application.
-public/: Static files (stylesheets, scripts, etc.).
-views/: EJS templates for rendering HTML.
+* index.js: Entry point of the application.
+* public/: Static files (stylesheets, scripts, etc.).
+* views/: EJS templates for rendering HTML.
 
 ## Contributing
 Feel free to contribute by adding more adjectives and nouns to enhance the band name generation. Submit a pull request with your additions.
